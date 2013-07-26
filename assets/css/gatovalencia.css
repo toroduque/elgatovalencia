@@ -53,7 +53,7 @@ h4{
 	font-size: 16px;
 	color: #f9f9f9;
 	margin: 20px;
-	font-weight: 200;
+	font-weight: 100;
 }
 
 a{
@@ -63,7 +63,7 @@ a{
 a h2:hover{
 	color:rgba(224,255,255,0.5);
 	text-shadow: rgba(255,204,230,0.5) -4px 0px 0px;
-	background:#606060;
+	background:#c4c4c4;
 }
 
 a h3:hover{
